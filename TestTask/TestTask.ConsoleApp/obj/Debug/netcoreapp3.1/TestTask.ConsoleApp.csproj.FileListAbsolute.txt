@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\TestTask\TestTask.ConsoleApp\bin\Debug\netcoreapp3.1\TestTask.ConsoleApp.exe
+C:\Users\user\source\repos\TestTask\TestTask.ConsoleApp\bin\Debug\netcoreapp3.1\TestTask.ConsoleApp.deps.json
+C:\Users\user\source\repos\TestTask\TestTask.ConsoleApp\bin\Debug\netcoreapp3.1\TestTask.ConsoleApp.runtimeconfig.json
+C:\Users\user\source\repos\TestTask\TestTask.ConsoleApp\bin\Debug\netcoreapp3.1\TestTask.ConsoleApp.runtimeconfig.dev.json
+C:\Users\user\source\repos\TestTask\TestTask.ConsoleApp\bin\Debug\netcoreapp3.1\TestTask.ConsoleApp.dll
+C:\Users\user\source\repos\TestTask\TestTask.ConsoleApp\bin\Debug\netcoreapp3.1\TestTask.ConsoleApp.pdb
+C:\Users\user\source\repos\TestTask\TestTask.ConsoleApp\bin\Debug\netcoreapp3.1\TestTask.BLL.dll
+C:\Users\user\source\repos\TestTask\TestTask.ConsoleApp\bin\Debug\netcoreapp3.1\TestTask.BLL.pdb
+C:\Users\user\source\repos\TestTask\TestTask.ConsoleApp\obj\Debug\netcoreapp3.1\TestTask.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TestTask\TestTask.ConsoleApp\obj\Debug\netcoreapp3.1\TestTask.ConsoleApp.AssemblyInfo.cs
+C:\Users\user\source\repos\TestTask\TestTask.ConsoleApp\obj\Debug\netcoreapp3.1\TestTask.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TestTask\TestTask.ConsoleApp\obj\Debug\netcoreapp3.1\TestTask.ConsoleApp.csproj.CopyComplete
+C:\Users\user\source\repos\TestTask\TestTask.ConsoleApp\obj\Debug\netcoreapp3.1\TestTask.ConsoleApp.dll
+C:\Users\user\source\repos\TestTask\TestTask.ConsoleApp\obj\Debug\netcoreapp3.1\TestTask.ConsoleApp.pdb
+C:\Users\user\source\repos\TestTask\TestTask.ConsoleApp\obj\Debug\netcoreapp3.1\TestTask.ConsoleApp.genruntimeconfig.cache
+C:\Users\user\source\repos\TestTask\TestTask.ConsoleApp\obj\Debug\netcoreapp3.1\TestTask.ConsoleApp.csprojAssemblyReference.cache
