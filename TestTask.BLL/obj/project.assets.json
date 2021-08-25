@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\TestTask\\TestTask.BLL\\TestTask.BLL.csproj",
+      "projectUniqueName": "C:\\Users\\user\\source\\repos\\TestTask (modern expo)\\TestTask.BLL\\TestTask.BLL.csproj",
       "projectName": "TestTask.BLL",
-      "projectPath": "C:\\Users\\user\\source\\repos\\TestTask\\TestTask.BLL\\TestTask.BLL.csproj",
+      "projectPath": "C:\\Users\\user\\source\\repos\\TestTask (modern expo)\\TestTask.BLL\\TestTask.BLL.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\TestTask\\TestTask.BLL\\obj\\",
+      "outputPath": "C:\\Users\\user\\source\\repos\\TestTask (modern expo)\\TestTask.BLL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

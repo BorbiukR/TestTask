@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\TestTask\\TestTask.ConsoleApp\\TestTask.ConsoleApp.csproj": {}
+    "C:\\Users\\user\\source\\repos\\TestTask (modern expo)\\TestTask.ConsoleApp\\TestTask.ConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\TestTask\\TestTask.BLL\\TestTask.BLL.csproj": {
+    "C:\\Users\\user\\source\\repos\\TestTask (modern expo)\\TestTask.BLL\\TestTask.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\TestTask\\TestTask.BLL\\TestTask.BLL.csproj",
+        "projectUniqueName": "C:\\Users\\user\\source\\repos\\TestTask (modern expo)\\TestTask.BLL\\TestTask.BLL.csproj",
         "projectName": "TestTask.BLL",
-        "projectPath": "C:\\Users\\user\\source\\repos\\TestTask\\TestTask.BLL\\TestTask.BLL.csproj",
+        "projectPath": "C:\\Users\\user\\source\\repos\\TestTask (modern expo)\\TestTask.BLL\\TestTask.BLL.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\TestTask\\TestTask.BLL\\obj\\",
+        "outputPath": "C:\\Users\\user\\source\\repos\\TestTask (modern expo)\\TestTask.BLL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "C:\\Users\\user\\source\\repos\\TestTask\\TestTask.ConsoleApp\\TestTask.ConsoleApp.csproj": {
+    "C:\\Users\\user\\source\\repos\\TestTask (modern expo)\\TestTask.ConsoleApp\\TestTask.ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\TestTask\\TestTask.ConsoleApp\\TestTask.ConsoleApp.csproj",
+        "projectUniqueName": "C:\\Users\\user\\source\\repos\\TestTask (modern expo)\\TestTask.ConsoleApp\\TestTask.ConsoleApp.csproj",
         "projectName": "TestTask.ConsoleApp",
-        "projectPath": "C:\\Users\\user\\source\\repos\\TestTask\\TestTask.ConsoleApp\\TestTask.ConsoleApp.csproj",
+        "projectPath": "C:\\Users\\user\\source\\repos\\TestTask (modern expo)\\TestTask.ConsoleApp\\TestTask.ConsoleApp.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\TestTask\\TestTask.ConsoleApp\\obj\\",
+        "outputPath": "C:\\Users\\user\\source\\repos\\TestTask (modern expo)\\TestTask.ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\user\\source\\repos\\TestTask\\TestTask.BLL\\TestTask.BLL.csproj": {
-                "projectPath": "C:\\Users\\user\\source\\repos\\TestTask\\TestTask.BLL\\TestTask.BLL.csproj"
+              "C:\\Users\\user\\source\\repos\\TestTask (modern expo)\\TestTask.BLL\\TestTask.BLL.csproj": {
+                "projectPath": "C:\\Users\\user\\source\\repos\\TestTask (modern expo)\\TestTask.BLL\\TestTask.BLL.csproj"
               }
             }
           }

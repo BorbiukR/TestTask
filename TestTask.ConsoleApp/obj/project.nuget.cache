@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m+M0679IBoPdL/mRVCQ18vm+pWBa77nri0wuI0a7t2gdGCPbtSeHLFP5ZlFRjMFizLoml23dnQ4e8eDFmF65dA==",
+  "dgSpecHash": "yBzRHbn/Z6ZV132lHC8xxdcNTKc5TSMUMoM9B027x9BmcUqTwR2ln8ZhLNT2dNKb6X8DOrr6l+9gXAs9cVgQcw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\TestTask\\TestTask.ConsoleApp\\TestTask.ConsoleApp.csproj",
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\TestTask (modern expo)\\TestTask.ConsoleApp\\TestTask.ConsoleApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
   ],

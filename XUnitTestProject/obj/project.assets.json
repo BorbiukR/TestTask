@@ -9020,11 +9020,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\TestTask\\XUnitTestProject\\TestTask.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\user\\source\\repos\\TestTask (modern expo)\\XUnitTestProject\\TestTask.Tests.csproj",
       "projectName": "TestTask.Tests",
-      "projectPath": "C:\\Users\\user\\source\\repos\\TestTask\\XUnitTestProject\\TestTask.Tests.csproj",
+      "projectPath": "C:\\Users\\user\\source\\repos\\TestTask (modern expo)\\XUnitTestProject\\TestTask.Tests.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\TestTask\\XUnitTestProject\\obj\\",
+      "outputPath": "C:\\Users\\user\\source\\repos\\TestTask (modern expo)\\XUnitTestProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9041,8 +9041,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\user\\source\\repos\\TestTask\\TestTask.BLL\\TestTask.BLL.csproj": {
-              "projectPath": "C:\\Users\\user\\source\\repos\\TestTask\\TestTask.BLL\\TestTask.BLL.csproj"
+            "C:\\Users\\user\\source\\repos\\TestTask (modern expo)\\TestTask.BLL\\TestTask.BLL.csproj": {
+              "projectPath": "C:\\Users\\user\\source\\repos\\TestTask (modern expo)\\TestTask.BLL\\TestTask.BLL.csproj"
             }
           }
         }
